@@ -1,0 +1,17 @@
+
+INSTALL DEBIAN 10
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-debian-10
+
+INSTALL VISUAL STUDIO CODE
+wiki.debian.org/VisualStudioCode
+
+INSTALL SSH
+devconnected.com/how-to-install-and-enable-ssh-server-on-debian-10/
+
+INSTALL NGINX
+nginx.com/blog/setting-up-nginx/#open-web-page
+
+RUN NGINX IN DOCKER
+digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-22-04#step-555-using-yout-own-nginx-configuration-file-optional
+
+digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts
